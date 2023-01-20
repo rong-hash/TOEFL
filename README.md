@@ -5,7 +5,13 @@ Note of the TOEFL
 [Zhirong Chen](https://github.com/rong-hash)
 
 ## File
-- reading.md
-- listening.md
-- speaking.md
-- writing.md
+- 阅读
+- 听力
+- 口语
+- 写作
+  - 独立写作.md
+  - 综合写作.md
+
+## Score
+![img](toefl.png)
+
