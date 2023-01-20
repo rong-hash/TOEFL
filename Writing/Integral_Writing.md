@@ -1,4 +1,4 @@
-# 综合写作:
+# Integral Writing
 
 ## Template
 
