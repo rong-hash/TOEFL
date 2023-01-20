@@ -15,3 +15,6 @@ Note of the TOEFL
 ## Score
 ![img](toefl.png)
 
+If you find some mistakes in the document, feel free to contact me or take a pull request.
+
+
