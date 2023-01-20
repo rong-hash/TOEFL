@@ -1,16 +1,24 @@
 # TOEFL
-Note of the TOEFL
+
 
 ## Contributor
 [Zhirong Chen](https://github.com/rong-hash)
 
 ## File
-- 阅读
-- 听力
-- 口语
-- 写作
-  - 独立写作.md
-  - 综合写作.md
+- Reading
+  - Reading.md
+- Listening
+  - Listening.md
+- Speaking
+  - Mistake.md
+  - Speaking.md
+- Writing
+  - Integra_Writing.md
+  - Independent_Writing.md
+
+## Language
+
+Chinese and English
 
 ## Score
 ![img](toefl.png)
